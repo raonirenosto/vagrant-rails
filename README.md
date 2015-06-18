@@ -3,6 +3,11 @@
 Configuring all required tools for running Ruby on Rails is a pain and time consuming.
 This vagrant config file is meant to build a ready to go Rails **development** environment.
 
+## What is Vagrant?
+Vagrant is a tool for creating a virtual machine.
+You can install Vagrant on Mac, Windows or Linux
+[https://www.vagrantup.com/downloads.html](https://www.vagrantup.com/downloads.html)
+
 ## Creating Environment
 ```
 $ git clone https://github.com/raonirenosto/vagrant-rails
