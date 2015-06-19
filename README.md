@@ -22,7 +22,7 @@ $ vagrant ssh
 
 ## What is going to be installed?
 
-- Ubuntu 15.04 (Vivid)
+- Ubuntu 15.04 (Vivid Vervet)
 - Curl
 - Git
 - Rvm
